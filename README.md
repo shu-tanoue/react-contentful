@@ -1,3 +1,4 @@
+<img width="1440" alt="Screen Shot 2021-01-11 at 5 11 03 PM" src="https://user-images.githubusercontent.com/58486460/104256436-1ad0ff80-5430-11eb-87ed-1e0dba7c55ea.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
